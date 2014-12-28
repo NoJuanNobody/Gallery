@@ -5,7 +5,7 @@
     padding: 0px 0;
     text-align: center;
     color: #fff;
-    background: url(file:///Users/Alejandro/Documents/FIRST%20WEBPAGE/project/MPN%20project/the%20gallery/img/the-gallery-2.png) no-repeat bottom center scroll;
+    background: url(https://raw.githubusercontent.com/alejandro-londono/Gallery/master/img/the-gallery-2.png) no-repeat bottom center scroll;
     
     background-color: white;
     -webkit-background-size: cover;
@@ -72,4 +72,6 @@ p.select-styles{
 }
 .top-spacing{
     margin-top:100px;
+}
+.hide {
 }
