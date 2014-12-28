@@ -1,0 +1,75 @@
+.intro {
+    display: table;
+    width: 100%;
+    height: 800px;
+    padding: 0px 0;
+    text-align: center;
+    color: #fff;
+    background: url(file:///Users/Alejandro/Documents/FIRST%20WEBPAGE/project/MPN%20project/the%20gallery/img/the-gallery-2.png) no-repeat bottom center scroll;
+    
+    background-color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.navbar{
+    margin-bottom: 0px
+
+}
+.navbar-the-gallery{
+background-color: transparent;
+border-radius: 10px;
+margin-top: 15px;
+
+}
+.white{
+
+visibility: visible ;
+font-family: 'Oswald', sans-serif;
+color:white;
+
+}
+.pink{
+   font-size: 13em; 
+font-family: 'Lobster', cursive;
+color: #DB5A6B;
+}
+
+.pink-left{
+    font-family: 'Lobster', cursive;
+    color: #DB5A6B;
+    COLOR: #DB5A6B;
+    TEXT-ALIGN: left;
+    font-size:6em;
+}
+
+body{
+font-family: 'Oswald', sans-serif;
+color: #87D37C;
+
+}
+ .top-nav-collapse {
+    background-color: #264348;
+border-radius: 10px;
+margin-top: 15px;
+    }
+
+.contact {
+background-color: #DB5A6B;
+color: #F1A9A0;
+text-shadow: none;
+}
+.select-styles {
+text-align: left;
+list-style-type: none;
+text-transform: uppercase;
+font-size: 2em;
+color: #03A678;
+}
+p.select-styles{
+    padding-left: 45px;
+}
+.top-spacing{
+    margin-top:100px;
+}
